@@ -22,7 +22,7 @@ GlowCalc is a beautifully designed, responsive calculator built using HTML, CSS,
 
 🎈Click on View to switch between mobile or desktop layout
 
-Start using the calculator with mouse or keyboard input
+👌Start using the calculator with mouse or keyboard input
 
 🔧 Tech Stack:
 
